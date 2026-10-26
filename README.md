@@ -66,7 +66,7 @@ Demo video: [Add your Google Drive video link here]
 
 **Domain:** Data Analytics and Data Visualization
 
-**GitHub Repository:** [Add your repository link here]
+**GitHub Repository:** https://github.com/arpitasingh-pixel/EV-Market_Performance_and_Insights
 
 ## 📌 Conclusion
 This project combines a Flask-based web application with Tableau visualizations to present insights into electric vehicle market performance in an accessible and interactive format.
