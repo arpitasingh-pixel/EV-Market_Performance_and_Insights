@@ -59,7 +59,7 @@ EV-Market-Performance-and-Insights/
    `http://127.0.0.1:5000/`
 
 ## 🎥 Project Demonstration
-Demo video: [Add your Google Drive video link here]
+Demo video: https://drive.google.com/file/d/1dcY9-itCLfl-wKnRnUgiAN0_WiwDcN1b/view?usp=sharing
 
 ## 👩‍💻 Project Information
 **Project Name:** EV Market Performance and Insights
